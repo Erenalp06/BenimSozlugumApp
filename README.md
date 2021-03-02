@@ -1,5 +1,5 @@
 # BenimSozlugumApp
-Sözlük ve çeviri uyguluması
+Sözlük ve çeviri uygulaması
 
 Yeni başladığım yazılım yolculuğunda kendimi geliştirmek için yapmış olduğum sözlük uygulaması.
 
